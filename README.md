@@ -14,7 +14,7 @@
 
  📚 I’m passionate about continuous learning and expanding my skill set.
 
- ⚡ Fun fact **Like the Professor in "La Casa de Papel," I meticulously plan my development projects, anticipating each step like a well-orchestrated heist.**
+ ⚡ Fun fact **Like the Professor in La Casa de Papel, I meticulously plan my development projects, anticipating each step like a well-orchestrated heist.**
 
  </div>
 
@@ -30,7 +30,14 @@
   </a>
 </div>
 
+<hr/>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
 
 
