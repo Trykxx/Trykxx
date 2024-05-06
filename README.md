@@ -14,7 +14,7 @@
 
  📚 I’m passionate about continuous learning and expanding my skill set.
 
- ⚡ Fun fact **Like the Professor in La Casa de Papel, I meticulously plan my development projects, anticipating each step like a well-orchestrated heist.**
+ ⚡ Fun fact : **Like the Professor in La Casa de Papel, I meticulously plan my development projects, anticipating each step like a well-orchestrated heist.**
 
  </div>
 
